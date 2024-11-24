@@ -1,5 +1,5 @@
-# Carlos-Junior
-# sistema_bancario
+# 
+# système bancaire
 menu = """
 
 [d] depositar
